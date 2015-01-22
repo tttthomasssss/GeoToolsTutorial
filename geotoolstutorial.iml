@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-geometry:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jsr-275:jsr-275:1.0-beta-2" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-main:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-api:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.vividsolutions:jts:1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-referencing:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: java3d:vecmath:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.5.4" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-metadata:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-opengis:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_core:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: jgridshift:jgridshift:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jdom:jdom:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-geojson:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-render:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-coverage:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_imageio:1.1" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-tiff:1.1.10" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-utilities:1.1.10" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_codec:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-zonalstats:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-utils:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-cql:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-shapefile:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-data:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-epsg-hsql:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.hsqldb:hsqldb:2.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools.jdbc:gt-jdbc-postgis:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: postgresql:postgresql:8.4-701.jdbc3" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-jdbc:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-swing:13-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.miglayout:miglayout:swing:3.7" level="project" />
+  </component>
+</module>
+
